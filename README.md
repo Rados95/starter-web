@@ -16,5 +16,7 @@ Deployment can be on any sever
 
 ## How To Contribute
 
+Please fork this repositroyt
+
 ### Copyright
 2021
