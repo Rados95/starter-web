@@ -15,3 +15,6 @@ As stated above, the main purpose it ot rpvoide simple examoke
 Deployment can be on any sever
 
 ## How To Contribute
+
+### Copyright
+2021
