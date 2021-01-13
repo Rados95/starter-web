@@ -1,6 +1,7 @@
 # Starter Web Project
 
-This is a simple website project. Adding a line for rebasing example, then more changes from my feature branch too
+This is a simple website project. Adding a line for rebasing example, then more changes from my feature branch too.
+Doign emergency fix
 
 ## Introduction
 
