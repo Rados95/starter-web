@@ -19,4 +19,4 @@ Deployment can be on any sever
 Please fork this repositroyt
 
 ### Copyright
-2021
+2021 All rights reserved
