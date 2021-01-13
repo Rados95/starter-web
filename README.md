@@ -9,7 +9,7 @@ This is an example to show different parts of git repostiroy
 
 ## Purpose
 
-As stated above, the main purpose it ot rpvoide simple examoke
+Purpose changed
 
 ## Deployment
 
@@ -21,3 +21,5 @@ Please fork this repositroyt
 
 ### Copyright
 2021 All rights reserved
+
+Adding something new
